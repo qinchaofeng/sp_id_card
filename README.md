@@ -7,5 +7,7 @@
 运行环境：Oracle、plsql
 
 #function:身份证信息查询
+
 #input: card_id VARCHAR2 身份证号码
+
 #output:out_msg VARCHAR2 身份证信息
